@@ -7,5 +7,7 @@ public class JiuJian {
         System.out.println("hahahhah2222222222222222222");
         System.out.println("hahahhah2222222222222222222");
         System.out.println("hahahhah2222222222222222222");
+        System.out.println("hahahhah1222222222222222211");
+        System.out.println("hahahhah33333333333333333333333311111");
     }
 }
